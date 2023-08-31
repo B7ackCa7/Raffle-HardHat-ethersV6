@@ -2,13 +2,6 @@
 
 ---
 
-### Table of Contents
-
-- [Description](#description)
-- [Author Info](#author-info)
-
----
-
 ## Description
 
 This follows along with FCC Lesson 9: Hardhat Smart Contract Lottery.
